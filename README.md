@@ -46,9 +46,9 @@ Example input you can use when running the script:
 
 ## Jupyter Notebook Demo
 
-You can explore how the model works using predefined parameters in this interactive notebook:
+You can explore how the model works using predefined parameters in this notebook:
 
-[View notebook: `project_fixed_parameters.ipynb`](./project_fixed_parameters.ipynb)
+[Open notebook](./project_fixed_parameters.ipynb)
 
 The notebook includes:
 - Step-by-step parameter definitions
