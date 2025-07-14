@@ -5,7 +5,7 @@ This project was created as part of the course _Portfolio Theory and Risk Manage
 
 ---
 
-## ❓ What does it do?
+## What does it do?
 
 We assume two risky assets and one risk-free asset.  
 Based on user-provided input (expected returns, standard deviations, covariance, and prices), the tool:
@@ -17,7 +17,7 @@ Based on user-provided input (expected returns, standard deviations, covariance,
 
 ---
 
-## 🎯 Why use it?
+## Why use it?
 
 This tool helps investors and students:
 
@@ -26,5 +26,20 @@ This tool helps investors and students:
 - Receive specific feedback on how to construct a market portfolio from two risky assets
 - Run quick experiments to test different portfolio compositions and their expected risk/return trade-offs
 
+---
+
+## Example Parameters
+
+Example input you can use when running the script:
+
+- **Budget**: `10000`
+- **Price of risky asset 1**: `50`
+- **Price of risky asset 2**: `100`
+- **Expected return (μ₁)**: `0.12`
+- **Expected return (μ₂)**: `0.08`
+- **Volatility (σ₁)**: `0.20`
+- **Volatility (σ₂)**: `0.15`
+- **Covariance (σ₁₂)**: `0.018`
+- **Risk-free rate (R)**: `0.03`
 
 
