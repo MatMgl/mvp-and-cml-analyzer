@@ -42,4 +42,15 @@ Example input you can use when running the script:
 - **Covariance (σ₁₂)**: `0.018`
 - **Risk-free rate (R)**: `0.03`
 
+---
 
+## Jupyter Notebook Demo
+
+You can explore how the model works using predefined parameters in this interactive notebook:
+
+[View notebook: `project_fixed_parameters.ipynb`](./project_fixed_parameters.ipynb)
+
+The notebook includes:
+- Step-by-step parameter definitions
+- Calculations for MVP and Market Portfolio
+- Visualization of the Capital Market Line and Efficient Frontier
